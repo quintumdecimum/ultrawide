@@ -8,18 +8,4 @@
 
 [IEEE 802.15](https://en.wikipedia.org/wiki/IEEE_802.15), Wikipedia.
 
-https://www.qorvo.com/innovation/ultra-wideband/technology
-
-# Related
-
-[Apple Electronic Device Having Angle of Arrival Detection Capabilities](https://patents.google.com/patent/US20210351494A1/)
-
-[Apple Communication terminal device, communication device, communication network server and method for controlling](https://patents.google.com/patent/US8989807B2/)
-
-[Apple Methods and architectures for secure ranging](https://patents.google.com/patent/US20240422724A1/)
-
-[Apple Many to many ranging techniques](https://patents.google.com/patent/US20210337360A1/)
-
-[Apple One to many ranging techniques](https://patents.google.com/patent/US11796667B2/)
-
-[Apple Platform Security Guide](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
+[Qorvo Technologies](https://www.qorvo.com/innovation/ultra-wideband/technology), Qorvo
