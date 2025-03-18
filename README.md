@@ -6,7 +6,7 @@
 # References:
 [How UWB Works](https://www.firaconsortium.org/discover/how-uwb-works), Fira Consortium.
 
-[IEEE 802.15](https://en.wikipedia.org/wiki/IEEE_802.15) Wikipedia.
+[IEEE 802.15](https://en.wikipedia.org/wiki/IEEE_802.15), Wikipedia.
 
 https://www.qorvo.com/innovation/ultra-wideband/technology
 
